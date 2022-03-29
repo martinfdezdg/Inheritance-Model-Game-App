@@ -1,2 +1,3 @@
 # Plants-vs-Zombies
-Proyecto: Plantas-vs-Zombies
+## Procedimiento de compilación/ejecución
+> Abrir proyecto en Eclipse
